@@ -55,7 +55,7 @@ The database will be created automatically.
 - form.py
 - loginform.py
 - templates/
-- static/ (if any)
+- static/
 
 ---
 
